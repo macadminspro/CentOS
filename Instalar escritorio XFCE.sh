@@ -1,6 +1,8 @@
 #!/bin/bash
 #
 #
+# Instalado en CentOS 6
+
 ############ Actualizando el sistema y paquetería básica #################################
 
 yum update -y
