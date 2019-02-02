@@ -23,5 +23,5 @@ yum install -y xorg-x11-fonts-Type1 xorg-x11-fonts-misc
 chkconfig --levels 235 iptables off
 sed -i 's/SELINUX=.*/SELINUX=disabled/' /etc/sysconfig/selinux
 
-reboot
+reboot   ## reinicia 
 
